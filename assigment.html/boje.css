@@ -21,6 +21,6 @@
     color: yellow;
 }
        
-body p:last-of-type:hover{
+body p:nth-child(8):hover{
     font-style: italic;
 }
